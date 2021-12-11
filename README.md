@@ -1,2 +1,2 @@
 # Covid19-Visualization
-Comparison of covid cumulative cases with various visualizations using R
+EDA of covid19 cumulative cases
